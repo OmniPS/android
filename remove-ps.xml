@@ -2,6 +2,7 @@
 <manifest>
   <remove-project name="android_frameworks_av" />
   <remove-project name="android_frameworks_base" />
+  <remove-project name="android_frameworks_native" />
   <remove-project name="android_system_core" />
   <remove-project name="android_hardware_qcom_audio" />
   <remove-project name="android_hardware_qcom_media" />
